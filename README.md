@@ -17,9 +17,9 @@ Manage users and fitness programs.
 ##
 ###  Technology 
 
-Node.js
-Express.js
-MongoDB
-Mongoose
-JSON Web Token (JWT)
-Render (for deployment)
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* JSON Web Token (JWT)
+* Render (for deployment)
